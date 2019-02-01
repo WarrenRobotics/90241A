@@ -1,3 +1,3 @@
 # 90241A
 
-Robot Code for team 90241A will go here
+Repository for programmers in 90241A. Robot code wont be found here, but the issue tracker will.
